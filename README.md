@@ -1,2 +1,3 @@
 # My-Repo
-Repository for my porject
+Repository for my project
+Author -> Elvis Christian 
